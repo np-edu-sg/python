@@ -1,0 +1,10 @@
+{
+  "name": "python",
+  "version": "0.1.0",
+  "description": "Python crash course",
+  "scripts": {
+  },
+  "keywords": ["python"],
+  "author": "Qin Guan",
+  "license": "CC-BY-SA-4.0"
+}

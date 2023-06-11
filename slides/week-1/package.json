@@ -2,12 +2,18 @@
   "name": "week-1",
   "scripts": {
     "build": "slidev build --base /week-1/ --out ../../dist/week-1",
-    "dev": "slidev --open",
+    "dev": "slidev",
     "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "^0.42.4",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/fluent": "^1.1.23",
+    "@iconify-json/fluent-emoji": "^1.1.13",
+    "@iconify-json/logos": "^1.1.31",
+    "@iconify-json/tabler": "^1.1.75"
   }
 }

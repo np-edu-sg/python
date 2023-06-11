@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "description": "Python crash course",
   "scripts": {
+    "build": "rimraf dist/ && vitepress build"
   },
-  "keywords": ["python"],
+  "keywords": [
+    "python"
+  ],
   "author": "Qin Guan",
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "rimraf": "^5.0.1",
+    "vitepress": "1.0.0-beta.2",
+    "vue": "^3.3.4"
+  }
 }

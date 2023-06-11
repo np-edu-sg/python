@@ -1,0 +1,13 @@
+{
+  "name": "week-1",
+  "scripts": {
+    "build": "slidev build --base /week-1/ --out ../../dist/week-1",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}

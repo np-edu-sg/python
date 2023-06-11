@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Python crash course",
   "scripts": {
-    "build": "rimraf dist/ && vitepress build"
+    "build": "rimraf dist/ && vitepress build && pnpm -r --parallel run build"
   },
   "keywords": [
     "python"

@@ -12,7 +12,7 @@
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
     "rimraf": "^5.0.1",
-    "vitepress": "1.0.0-rc.14",
+    "vitepress": "1.0.0-rc.17",
     "vue": "^3.3.4"
   }
 }

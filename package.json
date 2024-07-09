@@ -11,7 +11,7 @@
   "author": "Qin Guan",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
-    "rimraf": "^5.0.1",
+    "rimraf": "^6.0.0",
     "vitepress": "1.0.0-rc.31",
     "vue": "^3.3.4"
   }

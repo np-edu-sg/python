@@ -35,7 +35,7 @@ importers:
         version: 1.2.32
       '@iconify-json/fluent-emoji':
         specifier: ^1.1.13
-        version: 1.1.13
+        version: 1.2.6
       '@iconify-json/logos':
         specifier: ^1.1.31
         version: 1.1.31
@@ -1045,8 +1045,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: false
 
-  /@iconify-json/fluent-emoji@1.1.13:
-    resolution: {integrity: sha512-9tyClxWzrLwbfItv10/oUp3G7s5X+MUa0VN5P8nN2gmVg9Uy87HoZnDt3IRKNwbyqncXRr3p0VoWuv/Tg2jUCg==}
+  /@iconify-json/fluent-emoji@1.2.6:
+    resolution: {integrity: sha512-TFkiu9IyryZT1ZQCI/P9Tr9moswv7uzHrj53a08a7zdbmrAFYdm3h3yNAVRC+9N+mrWJsgclhOXVlr75N1kKKQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
